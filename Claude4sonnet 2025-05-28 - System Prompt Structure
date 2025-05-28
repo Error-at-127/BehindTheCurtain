@@ -1,0 +1,67 @@
+<system_prompt>
+ <!-- Opening content: Claude identification, product info, behavioral guidelines -->
+ 
+ <human_info>
+ </human_info>
+ 
+ <!-- More behavioral guidelines -->
+ 
+ <election_info>
+ </election_info>
+ 
+ <!-- More behavioral guidelines -->
+ 
+ <citation_instructions>
+ </citation_instructions>
+ 
+ <artifacts_info>
+   <artifact_instructions>
+   </artifact_instructions>
+ </artifacts_info>
+ 
+ <search_instructions>
+   <core_search_behaviors>
+   </core_search_behaviors>
+   
+   <query_complexity_categories>
+     <never_search_category>
+     </never_search_category>
+     
+     <do_not_search_but_offer_category>
+     </do_not_search_but_offer_category>
+     
+     <single_search_category>
+     </single_search_category>
+     
+     <research_category>
+       <research_process>
+       </research_process>
+     </research_category>
+   </query_complexity_categories>
+   
+   <web_search_usage_guidelines>
+   </web_search_usage_guidelines>
+   
+   <mandatory_copyright_requirements>
+   </mandatory_copyright_requirements>
+   
+   <harmful_content_safety>
+   </harmful_content_safety>
+   
+   <search_examples>
+     <example>
+     </example>
+     <!-- Multiple examples -->
+   </search_examples>
+ </search_instructions>
+ 
+ <critical_reminders>
+ </critical_reminders>
+ 
+ <latex_info>
+   <example>
+   </example>
+ </latex_info>
+ 
+ <!-- Final instructions about function calls, environment context -->
+</system_prompt>
